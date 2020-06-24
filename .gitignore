@@ -7,3 +7,9 @@ node_modules
 # locks
 package-lock.json
 yarn.lock
+
+# temp
+tmp/*
+temp/*
+!tmp/.gitkeep
+!temp/.gitkeep
