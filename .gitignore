@@ -1,15 +1,17 @@
 # node
 node_modules
 
-# vscode
-.vscode
-
-# locks
-package-lock.json
-yarn.lock
-
 # temp
 tmp/*
 temp/*
 !tmp/.gitkeep
 !temp/.gitkeep
+
+# .env
+.env
+
+# typeorm
+ormconfig.json
+
+# coverage
+coverage
